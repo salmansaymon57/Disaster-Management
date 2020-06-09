@@ -1,3 +1,4 @@
+
 create database DisasterManagement
 
 create table Disaster(
@@ -128,4 +129,4 @@ DELETE FROM Disaster where DisasterId=
 DELETE FROM Region where DisasterId=
 DELETE FROM Casuality where DisasterId=
 DELETE FROM Details where DisasterId=
-DELETE FROM ReliefAid where DisasterId=
+DELETE FROM ReliefAid where DisasterId
