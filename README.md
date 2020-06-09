@@ -3,4 +3,4 @@
  
 A database project about disaster management.
 
-Platform: NetBeans IDE,Microsoft sql server
+Platform: NetBeans IDE,Microsoft SQL Server
